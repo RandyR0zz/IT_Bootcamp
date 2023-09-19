@@ -1,9 +1,9 @@
 ### CV and other information:
 
 <ul type='square'>
-  <li><a href="https://github.com/RandyR0zz/IT-Bootcamp/blob/main/CV%20Junior%20Python%20Developer%20Palishchuk%20eng.pdf">English version</a></li>
-  <li><a href="https://github.com/RandyR0zz/IT-Bootcamp/blob/main/CV%20Junior%20Python%20Developer%20Palishchuk%20rus.pdf">Russian version</a></li>
-  <li><a href="https://github.com/RandyR0zz/IT-Bootcamp/blob/main/23-07-21%20Motivation%20Letter%20Palishchuk%20IT-Bootcamp.pdf">Motivation Letter</a></li>
+  <li><a href="https://github.com/RandyR0zz/IT_Bootcamp/blob/main/CV%20Python%20Developer%20Palishchuk%20ENG.pdf">English version</a></li>
+  <li><a href="https://github.com/RandyR0zz/IT_Bootcamp/blob/main/CV%20Python%20Developer%20Palishchuk%20RUS.pdf">Russian version</a></li>
+  <li><a href="https://github.com/RandyR0zz/IT_Bootcamp/blob/main/23-07-21%20Motivation%20Letter%20Palishchuk%20IT-Bootcamp.pdf">Motivation Letter</a></li>
 </ul>
 
 ---
